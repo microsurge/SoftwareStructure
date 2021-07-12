@@ -1,0 +1,4 @@
+x y a
+x z a
+x w a
+z a

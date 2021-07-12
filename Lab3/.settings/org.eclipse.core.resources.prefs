@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/Applications/CourseIntervalSet.java=UTF-8
+encoding//src/Applications/DutyIntervalSet.java=UTF-8
+encoding//src/Applications/DutyRosterApp.java=UTF-8
+encoding//src/Applications/ProcessIntervalSet.java=UTF-8
+encoding//src/interval/CommonIntervalSet.java=UTF-8
+encoding//src/interval/IntervalSet.java=UTF-8
+encoding//src/interval/MultiIntervalSet.java=UTF-8
+encoding//test/Applications/DutyIntervalSetTest.java=UTF-8
+encoding//test/Applications/ProcessIntervalSetTest.java=UTF-8
+encoding//test/interval/CommonIntervalSetTest.java=UTF-8
+encoding//test/interval/MultiIntervalSetTest.java=UTF-8
